@@ -2,6 +2,7 @@
 
 A modern, high-performance, and fully responsive SaaS landing page for an AI agent control platform[cite: 7]. Built from scratch with semantic HTML5, CSS3, and Vanilla JavaScript, featuring clean UI components, interactive preview cards, and custom micro-animations[cite: 5, 6].
 
+![Image Alt Text](screenshots/ss1.PNG)
 ---
 
 ##  Key Features
@@ -22,4 +23,5 @@ A modern, high-performance, and fully responsive SaaS landing page for an AI age
 
 ---
 
-## Page
+## Page/ Site
+- **https://grafikeaserc-design.github.io/operator-demoLandingPage/**
